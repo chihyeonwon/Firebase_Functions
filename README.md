@@ -1,2 +1,1 @@
-# Firebase_Functions
-[Android] Firebase로 서버 관리 없이 모바일 백엔드 코드 실행해보기
+![image](https://github.com/chihyeonwon/Firebase_Functions/assets/58906858/4cb7c0cf-557a-4e27-a4cf-34401f7ac7d5)
